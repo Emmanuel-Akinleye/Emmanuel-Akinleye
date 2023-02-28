@@ -2,10 +2,8 @@
 
 **`Digital Craftsman (Game Developer, Youtuber,  3D Animator)`**
 
-<!--
-**Emmanuel-Akinleye/Emmanuel-Akinleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a game developer, 3D animator, and YouTuber, I'm passionate about creating immersive digital experiences that transport players to new worlds. With expertise in Unity , I craft engaging gameplay mechanics that help in my stories to life. In addition to game development, I specialize in 3D animation and have experience creating high-quality character models, rigging and animation. When I'm not busy developing games or creating animations, you can find me sharing my knowledge and experiences with my YouTube audience which is "[Hazer Digital][youtube]", providing tutorials, showcasing my projects and having fun with my community.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
