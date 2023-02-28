@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** ' Digital Craftsman (Game Developer, Youtuber,  3D Animator) ' **
+** `Digital Craftsman (Game Developer, Youtuber,  3D Animator)` **
 
 <!--
 **Emmanuel-Akinleye/Emmanuel-Akinleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
