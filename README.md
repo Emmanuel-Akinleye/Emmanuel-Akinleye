@@ -31,13 +31,14 @@ When I'm not busy shaping virtual realms, I'm over at "<a href="https://www.yout
 <img  align="left" alt= "CSS" width="40x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img  align="left" alt= "CSharp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img  align="left" alt= "Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  align="left" alt= "Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color:white; padding-right: 3px; margin-right: 10px;" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-<img  align="left" alt = "JavaScript"width="40px"height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="background-color:white;"/>
+<img  align="left" alt = "JavaScript"width="40px"height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="background-color:white; margin-right: 3px; padding-right: 10px;"/>
 
 <br>
 
