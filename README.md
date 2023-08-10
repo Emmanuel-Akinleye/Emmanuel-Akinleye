@@ -41,7 +41,7 @@ When I'm not busy shaping virtual realms, I'm over at "<a href="https://www.yout
 <i class="devicon-github-original" style="font-size:40px;"></i>
 <i class="devicon-unity-original" style="font-size:40px;"></i>
 
-***
+---
 ## Github Stats
 <div style="
   margin-top: 15px;
