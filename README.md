@@ -24,7 +24,7 @@ When I'm not busy shaping virtual realms, I'm over at "<a href="https://www.yout
 [![Email](https://img.shields.io/badge/Email-Send%20Email-red?logo=email&style=for-the-badge)](mailto:emmanuelakinleye908@gmail.com)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Emmanuel-Akinleye) -->
 
-## Languages, Framweorks,Tools & Utilities 
+## Languages, Frameworks & Tools &darr;
 
 <img  align="left" alt= "React" width="40x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  align="left" alt= "Html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
