@@ -37,12 +37,16 @@ When I'm not busy shaping virtual realms, I'm over at "<a href="https://www.yout
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+<img  align="left" alt = "JavaScript"width="40px"height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="background-color:white;"/>
 
-<i class="devicon-github-original" style="font-size:40px;"></i>
-<i class="devicon-unity-original" style="font-size:40px;"></i>
+<br>
 
----
+***
+
 ## Github Stats
+
+<br>
+
 <div style="
   margin-top: 15px;
   display: flex;
