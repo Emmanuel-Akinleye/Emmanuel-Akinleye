@@ -37,6 +37,7 @@ When I'm not busy shaping virtual realms, I'm over at "<a href="https://www.yout
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img  align="left" alt = "JavaScript"width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+
 <i class="devicon-github-original" style="font-size:40px;"></i>
 <i class="devicon-unity-original" style="font-size:40px;"></i>
 
